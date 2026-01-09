@@ -1,0 +1,121 @@
+{
+  "nav": {
+    "home": "Início",
+    "about": "Sobre",
+    "skills": "Competências",
+    "projects": "Projetos",
+    "experience": "Experiência",
+    "certifications": "Certificações",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "name": "Andreia Semedo",
+    "title1": "Software Tester",
+    "title2": "AI Enthusiast",
+    "title3": "Developer",
+    "title4": "Cybersecurity",
+    "intro": "Apaixonada por tecnologia, inovação, qualidade de software e segurança da informação.",
+    "viewProjects": "Ver Projetos",
+    "downloadCV": "Descarregar CV"
+  },
+  "about": {
+    "title": "Sobre",
+    "me": "Mim",
+    "paragraph1": "Sou licenciada em Engenharia Informática e de Computadores pela Universidade de Cabo Verde, com paixão por tecnologia, inovação e qualidade de software.",
+    "paragraph2": "Como Engenheira de Teste de Software, Developer e entusiasta de Cybersecurity, tenho um profundo interesse em Segurança da Informação e Qualidade de Software. Procuro novos desafios profissionais e uma efetivação no mercado. O desenvolvimento das minhas habilidades e a geração de resultados positivos são os meus objetivos.",
+    "paragraph3": "Atualmente baseada em Bela Vista, Praia, Cabo Verde, estou aberta a oportunidades remotas e internacionais que me permitam contribuir para projetos inovadores e continuar a crescer profissionalmente.",
+    "paragraph4": "A minha jornada na tecnologia tem sido impulsionada pela curiosidade e pelo compromisso com a excelência. Acredito no poder da aprendizagem contínua e na importância de construir soluções de software seguras e de alta qualidade. Tenho experiência em comunicação eficaz, liderança, colaboração, planeamento e gestão de projetos.",
+    "humanMode": "Modo Humano",
+    "aiMode": "Modo AI",
+    "aiModeDescription": "Versão técnica e orientada para recrutadores",
+    "humanModeDescription": "Versão pessoal e motivacional",
+    "aiParagraph1": "Licenciada em Engenharia Informática e de Computadores pela Universidade de Cabo Verde. Especializada em testes de software, desenvolvimento web e segurança da informação. Experiência comprovada em execução de testes manuais, identificação e reporte de bugs em múltiplas plataformas (Tester Work, Test IO, Testlio, uTest).",
+    "aiParagraph2": "Competente em múltiplas linguagens de programação (C, Java, Python, PHP, JavaScript, TypeScript) e frameworks (React, Next.js, Node.js, Laravel, Yii, Django, Spring). Experiência em desenvolvimento de aplicações web, APIs RESTful, bases de dados (PostgreSQL, MySQL, SQLite) e desenvolvimento Android.",
+    "aiParagraph3": "Baseada em Bela Vista, Praia, Cabo Verde. Disponível para oportunidades remotas e internacionais. Procuro novos desafios profissionais e efetivação no mercado, com foco em Software Testing, Desenvolvimento de Software ou Cybersecurity.",
+    "aiParagraph4": "Certificada em Oracle Cloud Infrastructure (OCI 2025) e Back End Development (Oracle & Alura). Embaixadora Pan-Africana da Juventude para a governança da Internet. Forte compreensão de princípios de segurança (criptografia, controlo de acesso, proteção de dados), metodologias Agile/Scrum e ferramentas de gestão de projetos (Jira, Trello)."
+  },
+  "skills": {
+    "title": "Competências &",
+    "technologies": "Tecnologias",
+    "experience": "Anos de experiência",
+    "relatedProjects": "Projetos relacionados",
+    "useCases": "Casos de uso"
+  },
+  "projects": {
+    "title": "Meus",
+    "projects": "Projetos",
+    "viewGitHub": "Ver no GitHub",
+    "finalDegreeProject": "Projeto Final de Licenciatura"
+  },
+  "experience": {
+    "title": "Experiência",
+    "professional": "Profissional",
+    "filter": {
+      "all": "Tudo",
+      "development": "Desenvolvimento",
+      "testing": "Testes",
+      "cybersecurity": "Cybersecurity"
+    }
+  },
+  "certifications": {
+    "title": "Certificações &",
+    "achievements": "Conquistas"
+  },
+  "contact": {
+    "title": "Entre em",
+    "touch": "Contacto",
+    "contactInfo": "Informações de Contacto",
+    "socialLinks": "Links Sociais",
+    "name": "Nome",
+    "email": "Email",
+    "message": "Mensagem",
+    "sendMessage": "Enviar Mensagem",
+    "namePlaceholder": "O seu nome",
+    "emailPlaceholder": "seu.email@exemplo.com",
+    "messagePlaceholder": "A sua mensagem...",
+    "thankYou": "Obrigada pela sua mensagem! Num ambiente de produção, isto seria enviado para um servidor backend."
+  },
+  "footer": {
+    "rights": "Todos os direitos reservados."
+  },
+  "recruiter": {
+    "mode": "Modo Recrutador",
+    "activate": "Sou Recrutador",
+    "deactivate": "Sair do Modo Recrutador",
+    "summary": "Resumo Rápido",
+    "roleFocus": "Foco da Função",
+    "techStack": "Stack Tecnológico",
+    "location": "Localização",
+    "remoteAvailable": "Remoto Disponível",
+    "availability": "Disponibilidade",
+    "yes": "Sim"
+  },
+  "github": {
+    "title": "GitHub",
+    "activity": "Atividade",
+    "repositories": "Repositórios",
+    "languages": "Linguagens",
+    "contributions": "Contribuições",
+    "loading": "A carregar...",
+    "error": "Erro ao carregar dados do GitHub"
+  },
+  "security": {
+    "title": "Segurança &",
+    "trust": "Confiança",
+    "owasp": "Consciência OWASP",
+    "secureCoding": "Princípios de Código Seguro",
+    "dataProtection": "Mentalidade de Proteção de Dados",
+    "privacyFirst": "Formulário de Contacto com Privacidade em Primeiro (sem rastreamento)"
+  },
+  "pwa": {
+    "install": "Instalar App",
+    "installed": "App Instalado",
+    "installPrompt": "Instale esta aplicação para uma experiência melhor"
+  },
+  "common": {
+    "loading": "A carregar...",
+    "error": "Erro",
+    "close": "Fechar"
+  }
+}
+

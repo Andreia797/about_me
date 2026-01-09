@@ -1,0 +1,121 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "experience": "Experience",
+    "certifications": "Certifications",
+    "contact": "Contact"
+  },
+  "hero": {
+    "name": "Andreia Semedo",
+    "title1": "Software Tester",
+    "title2": "AI Enthusiast",
+    "title3": "Developer",
+    "title4": "Cybersecurity",
+    "intro": "Passionate about technology, innovation, software quality, and information security.",
+    "viewProjects": "View Projects",
+    "downloadCV": "Download CV"
+  },
+  "about": {
+    "title": "About",
+    "me": "Me",
+    "paragraph1": "I am a Computer and Information Engineering graduate from the University of Cabo Verde, with a passion for technology, innovation, and software quality.",
+    "paragraph2": "As a Software Test Engineer, Developer, and Cybersecurity enthusiast, I have a deep interest in Information Security and Software Quality. I seek new professional challenges and market opportunities. The development of my skills and the generation of positive results are my objectives.",
+    "paragraph3": "Currently based in Bela Vista, Praia, Cabo Verde, I am open to remote and international opportunities that allow me to contribute to innovative projects and continue growing professionally.",
+    "paragraph4": "My journey in technology has been driven by curiosity and a commitment to excellence. I believe in the power of continuous learning and the importance of building secure, high-quality software solutions. I have experience in effective communication, leadership, collaboration, planning, and project management.",
+    "humanMode": "Human Mode",
+    "aiMode": "AI Mode",
+    "aiModeDescription": "Technical and recruiter-oriented version",
+    "humanModeDescription": "Personal and motivational version",
+    "aiParagraph1": "Computer and Information Engineering graduate from the University of Cabo Verde. Specialized in software testing, web development, and information security. Proven experience in manual testing execution, bug identification and reporting across multiple platforms (Tester Work, Test IO, Testlio, uTest).",
+    "aiParagraph2": "Proficient in multiple programming languages (C, Java, Python, PHP, JavaScript, TypeScript) and frameworks (React, Next.js, Node.js, Laravel, Yii, Django, Spring). Experience in web application development, RESTful APIs, databases (PostgreSQL, MySQL, SQLite) and Android development.",
+    "aiParagraph3": "Based in Bela Vista, Praia, Cabo Verde. Available for remote and international opportunities. Seeking new professional challenges and market opportunities, with focus on Software Testing, Software Development or Cybersecurity.",
+    "aiParagraph4": "Certified in Oracle Cloud Infrastructure (OCI 2025) and Back End Development (Oracle & Alura). Pan-African Youth Ambassador for Internet Governance. Strong understanding of security principles (encryption, access control, data protection), Agile/Scrum methodologies and project management tools (Jira, Trello)."
+  },
+  "skills": {
+    "title": "Skills &",
+    "technologies": "Technologies",
+    "experience": "Years of experience",
+    "relatedProjects": "Related projects",
+    "useCases": "Use cases"
+  },
+  "projects": {
+    "title": "My",
+    "projects": "Projects",
+    "viewGitHub": "View on GitHub",
+    "finalDegreeProject": "Final Degree Project"
+  },
+  "experience": {
+    "title": "Professional",
+    "professional": "Experience",
+    "filter": {
+      "all": "All",
+      "development": "Development",
+      "testing": "Testing",
+      "cybersecurity": "Cybersecurity"
+    }
+  },
+  "certifications": {
+    "title": "Certifications &",
+    "achievements": "Achievements"
+  },
+  "contact": {
+    "title": "Get In",
+    "touch": "Touch",
+    "contactInfo": "Contact Information",
+    "socialLinks": "Social Links",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "sendMessage": "Send Message",
+    "namePlaceholder": "Your Name",
+    "emailPlaceholder": "your.email@example.com",
+    "messagePlaceholder": "Your message...",
+    "thankYou": "Thank you for your message! In a production environment, this would be sent to a backend server."
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  },
+  "recruiter": {
+    "mode": "Recruiter Mode",
+    "activate": "I'm a Recruiter",
+    "deactivate": "Exit Recruiter Mode",
+    "summary": "Quick Summary",
+    "roleFocus": "Role Focus",
+    "techStack": "Tech Stack",
+    "location": "Location",
+    "remoteAvailable": "Remote Available",
+    "availability": "Availability",
+    "yes": "Yes"
+  },
+  "github": {
+    "title": "GitHub",
+    "activity": "Activity",
+    "repositories": "Repositories",
+    "languages": "Languages",
+    "contributions": "Contributions",
+    "loading": "Loading...",
+    "error": "Error loading GitHub data"
+  },
+  "security": {
+    "title": "Security &",
+    "trust": "Trust",
+    "owasp": "OWASP Awareness",
+    "secureCoding": "Secure Coding Principles",
+    "dataProtection": "Data Protection Mindset",
+    "privacyFirst": "Privacy-First Contact Form (no tracking)"
+  },
+  "pwa": {
+    "install": "Install App",
+    "installed": "App Installed",
+    "installPrompt": "Install this app for a better experience"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "close": "Close"
+  }
+}
+
