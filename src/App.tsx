@@ -14,6 +14,7 @@ import Footer from './components/Footer';
 import RecruiterModeProvider from './components/RecruiterMode';
 import { RecruiterModeToggle } from './components/RecruiterMode';
 import PWAInstallPrompt from './components/PWAInstallPrompt';
+import PWAHelp from './components/PWAHelp';
 import ErrorFallback from './components/ErrorBoundary';
 import { useLanguage } from './hooks/useLanguage';
 
@@ -28,6 +29,7 @@ function AppContent() {
       <Navigation />
       <RecruiterModeToggle />
       <PWAInstallPrompt />
+      <PWAHelp />
       <Hero />
       <AboutWithMode />
       <SkillsIntelligence />
