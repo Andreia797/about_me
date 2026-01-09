@@ -15,7 +15,6 @@ const PWAInstallPrompt = () => {
   const [showManualPrompt, setShowManualPrompt] = useState(false);
   const [isInstalled, setIsInstalled] = useState(false);
   const [isIOS, setIsIOS] = useState(false);
-  const [isAndroid, setIsAndroid] = useState(false);
 
   useEffect(() => {
     // Check if already installed
@@ -27,7 +26,6 @@ const PWAInstallPrompt = () => {
     // Detect device type
     const userAgent = navigator.userAgent.toLowerCase();
     setIsIOS(/iphone|ipad|ipod/.test(userAgent));
-    setIsAndroid(/android/.test(userAgent));
 
     // Check if dismissed
     if (localStorage.getItem('pwa-install-dismissed') === 'true') {
