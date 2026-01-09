@@ -57,6 +57,36 @@ const Hero = () => {
         animate="visible"
         className="max-w-4xl mx-auto text-center"
       >
+        {/* Profile Photo */}
+        <motion.div
+          variants={itemVariants}
+          className="mb-8 flex justify-center"
+        >
+          <motion.div
+            whileHover={{ scale: 1.05 }}
+            className="relative"
+          >
+            <div className="w-48 h-48 sm:w-56 sm:h-56 md:w-64 md:h-64 rounded-full overflow-hidden border-4 border-purple-500/50 shadow-2xl shadow-purple-500/30 ring-4 ring-purple-900/20">
+              <img
+                src="/profile-photo.png"
+                alt="Andreia Semedo"
+                className="w-full h-full object-cover"
+                onError={(e) => {
+                  // Fallback se a imagem não existir
+                  const target = e.target as HTMLImageElement;
+                  target.style.display = 'none';
+                }}
+              />
+            </div>
+            <motion.div
+              className="absolute -bottom-2 left-1/2 transform -translate-x-1/2 w-20 h-1 bg-gradient-to-r from-purple-500 to-violet-500 rounded-full"
+              initial={{ width: 0 }}
+              animate={{ width: 80 }}
+              transition={{ delay: 0.5, duration: 0.8 }}
+            />
+          </motion.div>
+        </motion.div>
+
         <motion.h1
           variants={itemVariants}
           className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold mb-6"

@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: andreia-portfolio
+    env: node
+    buildCommand: npm install && npm run build
+    startCommand: npx serve -s dist -l 10000
+    envVars:
+      - key: NODE_ENV
+        value: production
+    staticPublishPath: ./dist
+
