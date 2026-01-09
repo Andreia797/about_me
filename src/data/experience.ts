@@ -39,7 +39,7 @@ export const experiences: Experience[] = [
   {
     id: "4",
     title: "Estágio de Developer Tester",
-    company: "IDEIA",
+    company: "Universidade de Cabo Verde",
     location: "Praia, Cabo Verde",
     period: "07/2022 – 02/2023",
     description: "Realização de testes de sistemas e suporte na gestão de repositórios no GitLab. Otimização e gerenciamento de bases de dados relacionais (PostgreSQL). Análise de requisitos e implementação de funcionalidades com Yii PHP. Contribuição para o desenvolvimento e manutenção de aplicações web.",
@@ -48,6 +48,7 @@ export const experiences: Experience[] = [
   {
     id: "5",
     title: "Startup Founder",
+    company: "Cabo Verde Digital",
     location: "Cabo Verde",
     period: "2023",
     description: "Participação no desenvolvimento de projetos tecnológicos e de inovação. Desenvolvimento de protótipos e estratégias de criação de negócios. Aprimoramento de competências em empreendedorismo e execução de projetos inovadores.",
