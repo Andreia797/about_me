@@ -8,7 +8,7 @@ Portfólio profissional moderno construído com React, TypeScript, Vite e Tailwi
 - 📱 **PWA Instalável**: Funciona offline, instalável em Android, iOS e Desktop
 - 🎨 **Interface Moderna**: Animações suaves com Framer Motion
 - 🧠 **Modo Recrutador**: Visualização otimizada para recrutadores
-- 📊 **Integração GitHub**: Dados em tempo real do seu perfil
+- 📊 **Integração GitHub**: Dados em tempo real do meu perfil
 - 🔐 **Segurança**: Foco em segurança da informação e privacidade
 
 ## 🚀 Tecnologias
@@ -52,7 +52,6 @@ Edite os arquivos em `src/data/` para atualizar:
 ## 📄 Arquivos Importantes
 
 - CV: `/public/CV_Andreia_Semedo.pdf`
-- Ícones PWA: `/public/pwa-192x192.png` e `/public/pwa-512x512.png`
 
 ## 🚀 Deploy
 
@@ -64,7 +63,7 @@ Compatível com Vercel, Netlify e outras plataformas que suportam SPAs.
 - GitHub: [@Andreia797](https://github.com/Andreia797)
 - LinkedIn: [Andreia Semedo](https://www.linkedin.com/in/andreia-semedo/)
 - Email: andreiasemedo81@gmail.com
-- Localização: Bela Vista, Praia, Cabo Verde
+- Localização: Praia, Cabo Verde
 
 ---
 
