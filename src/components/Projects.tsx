@@ -66,14 +66,14 @@ const Projects = () => {
               <div className="p-6">
                 {project.type && (
                   <span className="inline-block px-3 py-1 bg-purple-900/30 text-purple-400 text-xs rounded-full mb-3">
-                    {project.type === 'Final Degree Project' ? t('projects.finalDegreeProject') : project.type}
+                    {project.type && t(project.type)}
                   </span>
                 )}
                 <h3 className="text-xl font-semibold text-white mb-3">
-                  {project.title}
+                  {t(project.title)}
                 </h3>
                 <p className="text-gray-400 mb-4">
-                  {project.description}
+                  {t(project.description)}
                 </p>
                 <div className="flex flex-wrap gap-2 mb-4">
                   {project.tech.map((tech, index) => (

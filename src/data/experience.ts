@@ -11,47 +11,47 @@ export interface Experience {
 export const experiences: Experience[] = [
   {
     id: "1",
-    title: "Engenheira de Teste de Software",
-    company: "Freelancer",
-    location: "Remoto",
-    period: "2022 – Atual",
-    description: "Execução de testes manuais, identificação e reporte de bugs em projetos diversos. Experiência em plataformas: Tester Work, Test IO, Testlio e uTest.",
+    title: "experienceItems.1.title",
+    company: "experienceItems.1.company",
+    location: "experienceItems.1.location",
+    period: "experienceItems.1.period",
+    description: "experienceItems.1.description",
     category: "testing"
   },
   {
     id: "2",
-    title: "Estagiário em Suporte ao Desenvolvimento e Documentação Técnica",
-    company: "Quality Making",
-    location: "Remoto, Cabo Verde",
-    period: "03/2025 – 10/2025",
-    description: "Criação de manuais técnicos e de utilizadores para aplicações. Análise de sistemas, suporte ao desenvolvimento e utilização do Trello para gestão de tarefas e progresso.",
+    title: "experienceItems.2.title",
+    company: "experienceItems.2.company",
+    location: "experienceItems.2.location",
+    period: "experienceItems.2.period",
+    description: "experienceItems.2.description",
     category: "development"
   },
   {
     id: "3",
-    title: "Estágio na Área de Desenvolvimento de Software",
-    company: "IDEIA",
-    location: "Praia, Cabo Verde",
-    period: "02/2025 – 07/2025",
-    description: "Desenvolvimento de aplicações web utilizando o framework Laravel (PHP). Utilização do XAMPP para gerenciamento de bases de dados locais (MySQL). Participação em reuniões com clientes para levantamento de requisitos e apresentação de soluções. Apoio na análise e implementação de melhorias nos sistemas desenvolvidos.",
+    title: "experienceItems.3.title",
+    company: "experienceItems.3.company",
+    location: "experienceItems.3.location",
+    period: "experienceItems.3.period",
+    description: "experienceItems.3.description",
     category: "development"
   },
   {
     id: "4",
-    title: "Estágio de Developer Tester",
-    company: "Universidade de Cabo Verde",
-    location: "Praia, Cabo Verde",
-    period: "07/2022 – 02/2023",
-    description: "Realização de testes de sistemas e suporte na gestão de repositórios no GitLab. Otimização e gerenciamento de bases de dados relacionais (PostgreSQL). Análise de requisitos e implementação de funcionalidades com Yii PHP. Contribuição para o desenvolvimento e manutenção de aplicações web.",
+    title: "experienceItems.4.title",
+    company: "experienceItems.4.company",
+    location: "experienceItems.4.location",
+    period: "experienceItems.4.period",
+    description: "experienceItems.4.description",
     category: "testing"
   },
   {
     id: "5",
-    title: "Startup Founder",
-    company: "Cabo Verde Digital",
-    location: "Cabo Verde",
-    period: "2023",
-    description: "Participação no desenvolvimento de projetos tecnológicos e de inovação. Desenvolvimento de protótipos e estratégias de criação de negócios. Aprimoramento de competências em empreendedorismo e execução de projetos inovadores.",
+    title: "experienceItems.5.title",
+    company: "experienceItems.5.company",
+    location: "experienceItems.5.location",
+    period: "experienceItems.5.period",
+    description: "experienceItems.5.description",
     category: "development"
   }
 ];

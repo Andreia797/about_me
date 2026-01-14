@@ -102,17 +102,17 @@ const InteractiveTimeline = () => {
                     className="bg-[#1a0a1a] border border-purple-900/30 rounded-lg p-6 hover:border-purple-500/50 transition-all duration-300 shadow-lg"
                   >
                     <h3 className="text-xl font-semibold text-purple-400 mb-2">
-                      {exp.title}
+                      {t(exp.title)}
                     </h3>
                     {exp.company && (
-                      <p className="text-gray-300 mb-2">{exp.company}</p>
+                      <p className="text-gray-300 mb-2">{t(exp.company)}</p>
                     )}
-                    <p className="text-gray-400 text-sm mb-2">{exp.location}</p>
+                    <p className="text-gray-400 text-sm mb-2">{t(exp.location)}</p>
                     <p className="text-purple-300 text-sm font-medium mb-3">
-                      {exp.period}
+                      {t(exp.period)}
                     </p>
                     {exp.description && (
-                      <p className="text-gray-400 text-sm">{exp.description}</p>
+                      <p className="text-gray-400 text-sm">{t(exp.description)}</p>
                     )}
                     <span className="inline-block mt-3 px-3 py-1 bg-purple-900/30 text-purple-400 text-xs rounded-full border border-purple-800/30">
                       {t(`experience.filter.${exp.category}`)}
@@ -129,4 +129,6 @@ const InteractiveTimeline = () => {
 };
 
 export default InteractiveTimeline;
+
+
 

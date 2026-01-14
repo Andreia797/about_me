@@ -116,6 +116,53 @@
     "loading": "Loading...",
     "error": "Error",
     "close": "Close"
+  },
+  "experienceItems": {
+    "1": {
+      "title": "Software Test Engineer",
+      "company": "Freelancer",
+      "location": "Remote",
+      "period": "2022 – Present",
+      "description": "Execution of manual tests, identification and reporting of bugs in diverse projects. Experience in platforms: Tester Work, Test IO, Testlio and uTest."
+    },
+    "2": {
+      "title": "Intern in Development Support and Technical Documentation",
+      "company": "Quality Making",
+      "location": "Remote, Cabo Verde",
+      "period": "03/2025 – 10/2025",
+      "description": "Creation of technical and user manuals for applications. Systems analysis, development support, and use of Trello for task and progress management."
+    },
+    "3": {
+      "title": "Software Development Internship",
+      "company": "IDEIA",
+      "location": "Praia, Cabo Verde",
+      "period": "02/2025 – 07/2025",
+      "description": "Web application development using Laravel framework (PHP). Use of XAMPP for local database management (MySQL). Participation in client meetings for requirements gathering and solution presentation. Support in analysis and implementation of improvements in developed systems."
+    },
+    "4": {
+      "title": "Developer Tester Internship",
+      "company": "University of Cabo Verde",
+      "location": "Praia, Cabo Verde",
+      "period": "07/2022 – 02/2023",
+      "description": "System testing execution and support in GitLab repository management. Optimization and management of relational databases (PostgreSQL). Requirements analysis and feature implementation with Yii PHP. Contribution to web application development and maintenance."
+    },
+    "5": {
+      "title": "Startup Founder",
+      "company": "Cabo Verde Digital",
+      "location": "Cabo Verde",
+      "period": "2023",
+      "description": "Participation in technological and innovation project development. Prototype development and business creation strategies. Entrepreneurship skills enhancement and innovative project execution."
+    }
+  },
+  "projectItems": {
+    "1": {
+      "title": "University of Cabo Verde Residency Management Platform",
+      "description": "Development of a digital platform for managing applications, residents, and accommodations using Django, React, and PostgreSQL. Final Degree Project.",
+      "type": "Final Degree Project"
+    },
+    "2": {
+      "title": "NhaLiXu",
+      "description": "Development of a digital solution for direct communication between the population and the Municipal Council, improving waste collection service efficiency."
+    }
   }
 }
-

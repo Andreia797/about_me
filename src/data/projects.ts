@@ -11,16 +11,16 @@ export interface Project {
 export const projects: Project[] = [
   {
     id: "1",
-    title: "Plataforma de Gestão das Residências da Universidade de Cabo Verde",
-    description: "Desenvolvimento de uma plataforma digital para gestão de candidaturas, residentes e alojamentos, utilizando Django, React e PostgreSQL. Projeto Final de Curso.",
+    title: "projectItems.1.title",
+    description: "projectItems.1.description",
     tech: ["Django", "React", "PostgreSQL"],
-    type: "Projeto Final de Curso",
+    type: "projectItems.1.type",
     github: "https://github.com/Andreia797"
   },
   {
     id: "2",
-    title: "NhaLiXu",
-    description: "Desenvolvimento de uma solução digital para comunicação direta entre a população e a Câmara Municipal, melhorando a eficiência dos serviços de recolha de lixo.",
+    title: "projectItems.2.title",
+    description: "projectItems.2.description",
     tech: ["React", "Node.js", "PostgreSQL"],
     github: "https://github.com/Andreia797"
   }

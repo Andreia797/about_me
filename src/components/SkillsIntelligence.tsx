@@ -126,7 +126,7 @@ const SkillsIntelligence = () => {
                             <p className="text-purple-400 mb-1">{t('skills.relatedProjects')}:</p>
                             <ul className="list-disc list-inside text-gray-400 space-y-1">
                               {intelligence.relatedProjects.map((project, idx) => (
-                                <li key={idx} className="text-xs">{project.title}</li>
+                                <li key={idx} className="text-xs">{t(project.title)}</li>
                               ))}
                             </ul>
                           </div>
@@ -153,4 +153,6 @@ const SkillsIntelligence = () => {
 };
 
 export default SkillsIntelligence;
+
+
 
