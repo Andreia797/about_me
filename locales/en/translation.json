@@ -163,6 +163,10 @@
     "2": {
       "title": "NhaLiXu",
       "description": "Development of a digital solution for direct communication between the population and the Municipal Council, improving waste collection service efficiency."
+    },
+    "3": {
+      "title": "Sentiment Analysis API",
+      "description": "Development of a Full Stack platform (Spring Boot and React) for sentiment analysis, integrating Machine Learning models (ONNX) via REST API, with batch processing support, Docker, and multi-level access control."
     }
   }
 }

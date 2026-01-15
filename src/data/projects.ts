@@ -21,8 +21,15 @@ export const projects: Project[] = [
     id: "2",
     title: "projectItems.2.title",
     description: "projectItems.2.description",
-    tech: ["React", "Node.js", "PostgreSQL"],
+    tech: ["React", "Django", "PostgreSQL"],
     github: "https://github.com/Andreia797"
+  },
+  {
+    id: "3",
+    title: "projectItems.3.title",
+    description: "projectItems.3.description",
+    tech: ["Spring Boot", "React", "ONNX", "Docker"],
+    github: "https://github.com/SentimentONE"
   }
 ];
 
