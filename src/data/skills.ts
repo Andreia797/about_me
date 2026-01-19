@@ -6,7 +6,7 @@ export interface SkillCategory {
 export const skills: SkillCategory[] = [
   {
     category: "Programação e Desenvolvimento",
-    skills: ["C", "Java", "Python", "Django", "HTML", "CSS", "Bootstrap", "Tailwind", "JavaScript", "TypeScript", "SQL", "Prolog", "React", "Next.js", "Node.js", "Yii Framework", "Laravel", "PHP", "jQuery", "Spring Framework"]
+    skills: ["C", "Java 21", "Python", "Django", "HTML", "CSS", "Bootstrap", "Tailwind", "JavaScript", "TypeScript", "SQL", "Prolog", "React", "Next.js", "Node.js", "Yii Framework", "Laravel", "PHP", "jQuery", "Spring Boot", "Spring Framework"]
   },
   {
     category: "Base de Dados",
@@ -38,7 +38,7 @@ export const skills: SkillCategory[] = [
   },
   {
     category: "Ferramentas e Tecnologias",
-    skills: ["Git", "GitHub", "GitLab", "Bitbucket", "Visual Studio Code", "Android Studio", "XAMPP", "Docker", "Postman", "Jira", "Trello", "Figma", "Canva"]
+    skills: ["Git", "GitHub", "GitLab", "Bitbucket", "Visual Studio Code", "Android Studio", "XAMPP", "Docker", "Postman", "Jira", "Trello", "Figma", "Canva", "ONNX"]
   },
   {
     category: "Plataformas de Teste",

@@ -30,7 +30,7 @@
     "aiModeDescription": "Technical and recruiter-oriented version",
     "humanModeDescription": "Personal and motivational version",
     "aiParagraph1": "Computer and Information Engineering graduate from the University of Cabo Verde. Specialized in software testing, web development, and information security. Proven experience in manual testing execution, bug identification and reporting across multiple platforms (Tester Work, Test IO, Testlio, uTest).",
-    "aiParagraph2": "Proficient in multiple programming languages (C, Java, Python, PHP, JavaScript, TypeScript) and frameworks (React, Next.js, Node.js, Laravel, Yii, Django, Spring). Experience in web application development, RESTful APIs, databases (PostgreSQL, MySQL, SQLite) and Android development.",
+    "aiParagraph2": "Proficient in multiple programming languages (C, Java 21, Python, PHP, JavaScript, TypeScript) and frameworks (React, Next.js, Node.js, Laravel, Yii, Django, Spring Boot). Experience in web application development, RESTful APIs, databases (PostgreSQL, MySQL, SQLite) and Android development.",
     "aiParagraph3": "Based in Bela Vista, Praia, Cabo Verde. Available for remote and international opportunities. Seeking new professional challenges and market opportunities, with focus on Software Testing, Software Development or Cybersecurity.",
     "aiParagraph4": "Certified in Oracle Cloud Infrastructure (OCI 2025) and Back End Development (Oracle & Alura). Pan-African Youth Ambassador for Internet Governance. Strong understanding of security principles (encryption, access control, data protection), Agile/Scrum methodologies and project management tools (Jira, Trello)."
   },
@@ -166,7 +166,7 @@
     },
     "3": {
       "title": "Sentiment Analysis API",
-      "description": "Development of a Full Stack platform (Spring Boot and React) for sentiment analysis, integrating Machine Learning models (ONNX) via REST API, with batch processing support, Docker, and multi-level access control."
+      "description": "Development of a complete platform for sentiment analysis using Spring Boot 3 and React, integrating Machine Learning models (ONNX) for real-time and batch processing of e-commerce feedback."
     }
   }
 }

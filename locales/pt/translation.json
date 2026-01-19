@@ -30,7 +30,7 @@
     "aiModeDescription": "Versão técnica e orientada para recrutadores",
     "humanModeDescription": "Versão pessoal e motivacional",
     "aiParagraph1": "Licenciada em Engenharia Informática e de Computadores pela Universidade de Cabo Verde. Especializada em testes de software, desenvolvimento web e segurança da informação. Experiência comprovada em execução de testes manuais, identificação e reporte de bugs em múltiplas plataformas (Tester Work, Test IO, Testlio, uTest).",
-    "aiParagraph2": "Competente em múltiplas linguagens de programação (C, Java, Python, PHP, JavaScript, TypeScript) e frameworks (React, Next.js, Node.js, Laravel, Yii, Django, Spring). Experiência em desenvolvimento de aplicações web, APIs RESTful, bases de dados (PostgreSQL, MySQL, SQLite) e desenvolvimento Android.",
+    "aiParagraph2": "Competente em múltiplas linguagens de programação (C, Java 21, Python, PHP, JavaScript, TypeScript) e frameworks (React, Next.js, Node.js, Laravel, Yii, Django, Spring Boot). Experiência em desenvolvimento de aplicações web, APIs RESTful, bases de dados (PostgreSQL, MySQL, SQLite) e desenvolvimento Android.",
     "aiParagraph3": "Baseada em Bela Vista, Praia, Cabo Verde. Disponível para oportunidades remotas e internacionais. Procuro novos desafios profissionais e efetivação no mercado, com foco em Software Testing, Desenvolvimento de Software ou Cybersecurity.",
     "aiParagraph4": "Certificada em Oracle Cloud Infrastructure (OCI 2025) e Back End Development (Oracle & Alura). Embaixadora Pan-Africana da Juventude para a governança da Internet. Forte compreensão de princípios de segurança (criptografia, controlo de acesso, proteção de dados), metodologias Agile/Scrum e ferramentas de gestão de projetos (Jira, Trello)."
   },
@@ -166,7 +166,7 @@
     },
     "3": {
       "title": "Sentiment Analysis API",
-      "description": "Desenvolvimento de uma plataforma Full Stack (Spring Boot e React) para análise de sentimentos, integrando modelos de Machine Learning (ONNX) via API REST, com suporte a processamento em lote, Docker e controle de acesso multinível."
+      "description": "Desenvolvimento de uma plataforma completa para análise de sentimentos utilizando Spring Boot 3 e React, integrando modelos de Machine Learning (ONNX) para processamento em tempo real e em lote de feedbacks de e-commerce."
     }
   }
 }
