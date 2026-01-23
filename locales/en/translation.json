@@ -125,28 +125,35 @@
       "period": "2022 – Present",
       "description": "Execution of manual tests, identification and reporting of bugs in diverse projects. Experience in platforms: Tester Work, Test IO, Testlio and uTest."
     },
-    "2": {
+     "2": {
+      "title": "Development Support and Technical Documentation Assistant",
+      "company": "Quality Making",
+      "location": "Remote, Cabo Verde",
+      "period": "10/2025 – Present",
+      "description": "Creation and updating of technical manuals and user guides. Systems analysis and software development support. Task management and progress tracking using Trello."
+    },
+    "3": {
       "title": "Intern in Development Support and Technical Documentation",
       "company": "Quality Making",
       "location": "Remote, Cabo Verde",
       "period": "03/2025 – 10/2025",
       "description": "Creation of technical and user manuals for applications. Systems analysis, development support, and use of Trello for task and progress management."
     },
-    "3": {
+    "4": {
       "title": "Software Development Internship",
       "company": "IDEIA",
       "location": "Praia, Cabo Verde",
       "period": "02/2025 – 07/2025",
       "description": "Web application development using Laravel framework (PHP). Use of XAMPP for local database management (MySQL). Participation in client meetings for requirements gathering and solution presentation. Support in analysis and implementation of improvements in developed systems."
     },
-    "4": {
+    "5": {
       "title": "Developer Tester Internship",
       "company": "University of Cabo Verde",
       "location": "Praia, Cabo Verde",
       "period": "07/2022 – 02/2023",
       "description": "System testing execution and support in GitLab repository management. Optimization and management of relational databases (PostgreSQL). Requirements analysis and feature implementation with Yii PHP. Contribution to web application development and maintenance."
     },
-    "5": {
+    "6": {
       "title": "Startup Founder",
       "company": "Cabo Verde Digital",
       "location": "Cabo Verde",
