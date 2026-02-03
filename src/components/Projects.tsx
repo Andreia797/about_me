@@ -5,7 +5,7 @@ import { projects } from '../data/projects';
 
 const Projects = () => {
   const { t } = useTranslation();
-  
+
   const containerVariants = {
     hidden: { opacity: 0 },
     visible: {
@@ -56,7 +56,7 @@ const Projects = () => {
             >
               <div className="h-48 bg-gradient-to-br from-purple-900/20 to-violet-900/20 flex items-center justify-center">
                 {project.image ? (
-                  <img src={project.image} alt={project.title} className="w-full h-full object-cover" />
+                  <img src={project.image} alt={t(project.title)} className="w-full h-full object-cover object-top" />
                 ) : (
                   <div className="text-6xl text-purple-500/30">
                     <FaExternalLinkAlt />
