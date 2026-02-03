@@ -143,22 +143,22 @@
       "title": "Online Communication and Sales Specialist",
       "company": "Manuel Gomes dos Anjos & Filhos S.A",
       "location": "Praia, Cabo Verde",
-      "period": "2023/12 – 2024/06",
+      "period": "12/2023 – 06/2024",
       "description": "Management of digital communication and online sales channels. Creation and management of content for social networks, focusing on engagement and conversion. Graphic design of promotional materials using Canva. Support for website maintenance and improvement of user experience (UX). Support in the definition and execution of digital marketing strategies."
     },
     "5": {
-      "title": "Startup Founder",
-      "company": "Cabo Verde Digital",
-      "location": "Cabo Verde",
-      "period": "2023",
-      "description": "Participation in technological and innovation project development. Prototype development and business creation strategies. Entrepreneurship skills enhancement and innovative project execution."
-    },
-    "6": {
       "title": "Developer Tester Internship",
       "company": "University of Cabo Verde",
       "location": "Praia, Cabo Verde",
       "period": "07/2022 – 02/2023",
       "description": "System testing execution and support in GitLab repository management. Optimization and management of relational databases (PostgreSQL). Requirements analysis and feature implementation with Yii PHP. Contribution to web application development and maintenance."
+    },
+    "6": {
+      "title": "Startup Founder",
+      "company": "Cabo Verde Digital",
+      "location": "Cabo Verde",
+      "period": "2023",
+      "description": "Participation in technological and innovation project development. Prototype development and business creation strategies. Entrepreneurship skills enhancement and innovative project execution."
     }
   },
   "projectItems": {

@@ -143,22 +143,22 @@
       "title": "Especialista em Comunicação e Vendas Online",
       "company": "Manuel Gomes dos Anjos & Filhos S.A",
       "location": "Praia, Cabo Verde",
-      "period": "2023/12 – 2024/06",
+      "period": "12/2023 – 06/2024",
       "description": "Gestão de comunicação digital e canais de vendas online. Criação e gestão de conteúdos para redes sociais, com foco em engajamento e conversão. Design gráfico de materiais promocionais utilizando Canva. Suporte à manutenção de websites e melhoria da experiência do utilizador (UX). Apoio na definição e execução de estratégias de marketing digital."
     },
     "5": {
-      "title": "Startup Founder",
-      "company": "Cabo Verde Digital",
-      "location": "Cabo Verde",
-      "period": "2023",
-      "description": "Participação no desenvolvimento de projetos tecnológicos e de inovação. Desenvolvimento de protótipos e estratégias de criação de negócios. Aprimoramento de competências em empreendedorismo e execução de projetos inovadores."
-    },
-    "6": {
-      "title": "Estágio de Developer Tester",
+      "title": "Estágio de Desenvolvedora e Testadora",
       "company": "Universidade de Cabo Verde",
       "location": "Praia, Cabo Verde",
       "period": "07/2022 – 02/2023",
       "description": "Realização de testes de sistemas e suporte na gestão de repositórios no GitLab. Otimização e gerenciamento de bases de dados relacionais (PostgreSQL). Análise de requisitos e implementação de funcionalidades com Yii PHP. Contribuição para o desenvolvimento e manutenção de aplicações web."
+    },
+    "6": {
+      "title": "Fundadora de Startup",
+      "company": "Cabo Verde Digital",
+      "location": "Cabo Verde",
+      "period": "2023",
+      "description": "Participação no desenvolvimento de projetos tecnológicos e de inovação. Desenvolvimento de protótipos e estratégias de criação de negócios. Aprimoramento de competências em empreendedorismo e execução de projetos inovadores."
     }
   },
   "projectItems": {
