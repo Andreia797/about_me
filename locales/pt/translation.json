@@ -164,7 +164,7 @@
   "projectItems": {
     "1": {
       "title": "Plataforma de Gestão das Residências da Universidade de Cabo Verde",
-      "description": "Desenvolvimento de uma plataforma digital para gestão de candidaturas, residentes e alojamentos, utilizando Django, React e PostgreSQL. Projeto Final de Curso.",
+      "description": "Desenvolvimento de uma plataforma digital para gestão de candidaturas, residentes e alojamentos, utilizando Django, React e PostgreSQL. Projeto Final de Curso concluído com a nota de 18 valores.",
       "type": "Projeto Final de Curso"
     },
     "2": {
