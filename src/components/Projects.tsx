@@ -54,7 +54,7 @@ const Projects = () => {
               whileHover={{ scale: 1.02, y: -5 }}
               className="bg-[#1a0a1a] border border-purple-900/30 rounded-lg overflow-hidden hover:border-purple-500/50 transition-all duration-300 shadow-lg"
             >
-              <div className="h-48 bg-gradient-to-br from-purple-900/20 to-violet-900/20 flex items-center justify-center">
+              <div className="h-64 bg-gradient-to-br from-purple-900/20 to-violet-900/20 flex items-center justify-center">
                 {project.image ? (
                   <img src={project.image} alt={t(project.title)} className="w-full h-full object-cover object-top" />
                 ) : (
@@ -63,7 +63,7 @@ const Projects = () => {
                   </div>
                 )}
               </div>
-              <div className="p-6">
+              <div className="pt-8 pb-6 px-6">
                 {project.type && (
                   <span className="inline-block px-3 py-1 bg-purple-900/30 text-purple-400 text-xs rounded-full mb-3">
                     {project.type && t(project.type)}
