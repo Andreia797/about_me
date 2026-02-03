@@ -15,7 +15,8 @@ export const projects: Project[] = [
     description: "projectItems.1.description",
     tech: ["Django", "React", "PostgreSQL"],
     type: "projectItems.1.type",
-    github: "https://github.com/Andreia797"
+    github: "https://github.com/Andreia797",
+    image: "/TelaLogin.png"
   },
   {
     id: "2",
