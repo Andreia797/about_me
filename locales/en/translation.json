@@ -125,40 +125,40 @@
       "period": "2022 – Present",
       "description": "Execution of manual tests, identification and reporting of bugs in diverse projects. Experience in platforms: Tester Work, Test IO, Testlio and uTest."
     },
-     "2": {
-      "title": "Development Support and Technical Documentation Assistant",
-      "company": "Quality Making",
-      "location": "Remote, Cabo Verde",
-      "period": "10/2025 – Present",
-      "description": "Creation and updating of technical manuals and user guides. Systems analysis and software development support. Task management and progress tracking using Trello."
-    },
-    "3": {
+    "2": {
       "title": "Intern in Development Support and Technical Documentation",
       "company": "Quality Making",
       "location": "Remote, Cabo Verde",
       "period": "03/2025 – 10/2025",
       "description": "Creation of technical and user manuals for applications. Systems analysis, development support, and use of Trello for task and progress management."
     },
-    "4": {
+    "3": {
       "title": "Software Development Internship",
       "company": "IDEIA",
       "location": "Praia, Cabo Verde",
       "period": "02/2025 – 07/2025",
       "description": "Web application development using Laravel framework (PHP). Use of XAMPP for local database management (MySQL). Participation in client meetings for requirements gathering and solution presentation. Support in analysis and implementation of improvements in developed systems."
     },
-    "5": {
-      "title": "Developer Tester Internship",
-      "company": "University of Cabo Verde",
+    "4": {
+      "title": "Online Communication and Sales Specialist",
+      "company": "Manuel Gomes dos Anjos & Filhos S.A",
       "location": "Praia, Cabo Verde",
-      "period": "07/2022 – 02/2023",
-      "description": "System testing execution and support in GitLab repository management. Optimization and management of relational databases (PostgreSQL). Requirements analysis and feature implementation with Yii PHP. Contribution to web application development and maintenance."
+      "period": "2023/12 – 2024/06",
+      "description": "Management of digital communication and online sales channels. Creation and management of content for social networks, focusing on engagement and conversion. Graphic design of promotional materials using Canva. Support for website maintenance and improvement of user experience (UX). Support in the definition and execution of digital marketing strategies."
     },
-    "6": {
+    "5": {
       "title": "Startup Founder",
       "company": "Cabo Verde Digital",
       "location": "Cabo Verde",
       "period": "2023",
       "description": "Participation in technological and innovation project development. Prototype development and business creation strategies. Entrepreneurship skills enhancement and innovative project execution."
+    },
+    "6": {
+      "title": "Developer Tester Internship",
+      "company": "University of Cabo Verde",
+      "location": "Praia, Cabo Verde",
+      "period": "07/2022 – 02/2023",
+      "description": "System testing execution and support in GitLab repository management. Optimization and management of relational databases (PostgreSQL). Requirements analysis and feature implementation with Yii PHP. Contribution to web application development and maintenance."
     }
   },
   "projectItems": {
