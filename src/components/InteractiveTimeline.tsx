@@ -9,9 +9,9 @@ const InteractiveTimeline = () => {
   const { t } = useTranslation();
   const [filter, setFilter] = useState<FilterType>('all');
 
-  const filteredExperiences = filter === 'all' 
-    ? experiences 
-    : experiences.filter(exp => exp.category === filter || exp.category === 'all');
+  const filteredExperiences = filter === 'all'
+    ? experiences
+    : experiences.filter(exp => exp.category === filter);
 
   const filters: FilterType[] = ['all', 'development', 'testing', 'cybersecurity'];
 
@@ -57,11 +57,10 @@ const InteractiveTimeline = () => {
               onClick={() => setFilter(filterType)}
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
-              className={`px-4 py-2 rounded-lg font-medium transition-all duration-300 ${
-                filter === filterType
+              className={`px-4 py-2 rounded-lg font-medium transition-all duration-300 ${filter === filterType
                   ? 'bg-gradient-to-r from-purple-600 to-violet-600 text-white shadow-lg shadow-purple-500/50'
                   : 'bg-[#1a0a1a] border border-purple-900/30 text-gray-300 hover:border-purple-500/50'
-              }`}
+                }`}
             >
               {t(`experience.filter.${filterType}`)}
             </motion.button>
