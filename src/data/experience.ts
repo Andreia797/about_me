@@ -34,7 +34,7 @@ export const experiences: Experience[] = [
     location: "experienceItems.3.location",
     period: "experienceItems.3.period",
     description: "experienceItems.3.description",
-    category: "testing"
+    category: "development"
   },
   {
     id: "4",
@@ -43,7 +43,7 @@ export const experiences: Experience[] = [
     location: "experienceItems.4.location",
     period: "experienceItems.4.period",
     description: "experienceItems.4.description",
-    category: "all"
+    category: "testing"
   },
   {
     id: "5",
@@ -52,7 +52,7 @@ export const experiences: Experience[] = [
     location: "experienceItems.5.location",
     period: "experienceItems.5.period",
     description: "experienceItems.5.description",
-    category: "development"
+    category: "all"
   },
   {
     id: "6",

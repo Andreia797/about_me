@@ -5,7 +5,7 @@ import { certifications } from '../data/certifications';
 
 const Certifications = () => {
   const { t } = useTranslation();
-  
+
   const containerVariants = {
     hidden: { opacity: 0 },
     visible: {
@@ -60,9 +60,9 @@ const Certifications = () => {
               <div className="flex-1">
                 <h3 className={`text-lg font-semibold mb-2 ${cert.link ? 'text-white hover:text-purple-400 transition-colors cursor-pointer' : 'text-white'}`}>
                   {cert.link ? (
-                    <a 
-                      href={cert.link} 
-                      target="_blank" 
+                    <a
+                      href={cert.link}
+                      target="_blank"
                       rel="noopener noreferrer"
                       className="hover:underline"
                     >
@@ -76,7 +76,12 @@ const Certifications = () => {
                   <p className="text-purple-400 text-sm mb-1">{cert.issuer}</p>
                 )}
                 {cert.year && (
-                  <p className="text-gray-400 text-sm">{cert.year}</p>
+                  <p className="text-gray-400 text-sm mb-2">{cert.year}</p>
+                )}
+                {cert.description && (
+                  <p className="text-gray-300 text-sm mt-3 border-t border-purple-900/30 pt-3 leading-relaxed">
+                    {cert.description}
+                  </p>
                 )}
               </div>
             </motion.div>

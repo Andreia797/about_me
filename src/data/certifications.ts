@@ -4,6 +4,7 @@ export interface Certification {
   issuer?: string;
   year?: string;
   link?: string;
+  description?: string;
 }
 
 export const certifications: Certification[] = [
@@ -27,6 +28,13 @@ export const certifications: Certification[] = [
     issuer: "Pan-African Youth Ambassadors for Internet Governance (PAYAIG)",
     year: "10/2023",
     link: "https://credsverse.com/credentials/29890124-1575-4aee-a7b1-46f8bca2a59b"
+  },
+  {
+    id: "4",
+    title: "Fundadora de Startup - Programa de Aceleração",
+    issuer: "Cabo Verde Digital",
+    year: "2023",
+    description: "Participação no programa de pré-incubação e aceleração de ideias da Cabo Verde Digital. Desenvolvimento de competências em empreendedorismo, validação de mercado, criação de modelos de negócio e pitch para investidores."
   }
 ];
 
